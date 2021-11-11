@@ -1,0 +1,95 @@
+#title, .subtitle, .post_title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(59, 58, 58);
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post {
+    background: rgb(245, 243, 240);
+    padding: 10px;
+    border: 0.2px solid rgb(113, 122, 113);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.post_content {
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0;
+    margin-bottom: 15px;
+    
+}
+
+.post_image {
+    max-width:840px;
+    height:auto;
+    position:auto;
+    top:50%;
+    left:50%;
+    margin-top: 25px;
+    margin-left: 10px;
+    border-radius: 5px;
+    }
+
+.post_image_dois {
+    width:auto;
+    height:auto;
+    position:auto;
+    top:50%;
+    left:50%;
+    margin-top: 25px;
+    margin-left: 400px;
+    margin-bottom:25px;
+    }
+
+.post_image_tres {
+    width:auto;
+    height:auto;
+    position:auto;
+    top:50%;
+    left:50%;
+    margin-top: 25px;
+    margin-left: 300px;
+    margin-bottom:25px;
+    }
+
+h4, h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px; 
+}
+
+div.container {
+    text-align: justify;
+    width: 900px;
+    background-color: rgb(240, 237, 234);
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.footer {
+    padding-left: 5px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+    color: black;
+    font-weight:500
+}
+
+.contact_list {
+    list-style-type: none;
+    padding-left: 5px; 
+}
+
+div.footer {
+    text-align: center;
+}
+    
